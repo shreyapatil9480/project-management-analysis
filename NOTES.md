@@ -1,0 +1,1 @@
+# Notes\n\nThis branch adds a simple notes file summarizing potential future improvements for the project.\n\n- Consider adding more project features, such as risk assessments and project type.\n- Experiment with different classification algorithms (e.g., Random Forest, XGBoost).\n- Add interactive dashboards using Plotly or Tableau to enhance presentation.\n
